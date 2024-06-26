@@ -14,3 +14,8 @@
 ((name)=>{
     console.log("DB connected", name)
 })("ashesh")
+
+
+(()=>{
+    user ="ashesh"
+})()

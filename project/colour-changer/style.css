@@ -4,3 +4,27 @@ html {
 span{
     display: block;
 }
+.canvas {
+    text-align: center;
+    margin: 100px auto 100px;
+    width: 80%;
+}
+.button {
+    display: inline-block;
+    border: solid black 2px;
+    border-radius: 1rem;
+    width: 100px;
+    height: 100px;
+}
+#grey {
+    background-color: grey;
+}
+#white {
+    background-color: white;
+}
+#blue {
+    background-color: #27187e;
+}
+#yellow {
+    background: #FFF44F ;
+}
